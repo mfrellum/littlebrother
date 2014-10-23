@@ -12,3 +12,8 @@ A personal Docker-container for your Metadata. It will fasilitate standardized d
 - [Sandstorm](https://sandstorm.io/)
 - [Known](http://withknown.com/)
 
+###Zotero Group (sharede literatur/bookmark list)
+[https://www.zotero.org/groups/littlebrother/items](https://www.zotero.org/groups/littlebrother/items)
+
+
+
