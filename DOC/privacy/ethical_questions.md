@@ -11,4 +11,4 @@ Regarding personal servers for metadata
 
 ### Where can the data physically be stored?
 
-[1]: http://example.com/  "Optional Title Here"
+*[1]: http://example.com/  "Optional Title Here"
