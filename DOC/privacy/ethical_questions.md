@@ -3,12 +3,17 @@ Ethical questions
 Regarding personal servers for metadata
 ---------------------------------------
 
-### Ease of collection can stimulate more collection
-[1][1]
-### Users don't necessarily know the consequences of sharing
+### Can ease of collection[1] stimulate more collection?
+If so? What are the consequenses?
 
-### Users can be bullied into surrendering their data
+### Does the users necessarily know the consequences of sharing?
+If not? What are the consequenses?
 
-### Where can the data physically be stored?
+### Can users be bullied into surrendering their data?
+If so? What can be done?
 
-- [1]: http://example.com/  "Optional Title Here"
+### Can the physically storage of the metadata be anywere?
+No. Why not? 
+Examples?
+
+* [1]: http://example.com/  "Optional Title Here"
