@@ -3,7 +3,7 @@ littlebrother
 More control of your part of the Big Data.
 ------------------------------------------
 
-littlebrother  is a [mfrellum/seedProject](https://github.com/mfrellum/seedProject/edit/master/README.md).
+littlebrother  is a [mfrellum/seedProject](https://github.com/mfrellum/seedProject).
 
 ### Docking your life
 A personal [Docker](https://docker.io)-container for your metadata.
