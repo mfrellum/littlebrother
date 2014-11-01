@@ -3,7 +3,7 @@ littlebrother
 More control of your part of the Big Data.
 ------------------------------------------
 
-littlebrother  is a [mfrellum/seedProject](https://github.com/mfrellum/seedProject).
+littlebrother  is a [mfrellum/seedProjects](https://github.com/mfrellum/seedProjects).
 
 People like [Tim Berners Lee calls for new model for privacy on the web](http://www.telegraph.co.uk/technology/internet/11148584/Tim-Berners-Lee-calls-for-new-model-for-privacy-on-the-web.html).
 
