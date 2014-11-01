@@ -5,6 +5,8 @@ More control of your part of the Big Data.
 
 littlebrother  is a [mfrellum/seedProject](https://github.com/mfrellum/seedProject).
 
+People like [Tim Berners Lee calls for new model for privacy on the web](http://www.telegraph.co.uk/technology/internet/11148584/Tim-Berners-Lee-calls-for-new-model-for-privacy-on-the-web.html).
+
 ### Docking your life
 A personal [Docker](https://docker.io)-container for your metadata.
 
@@ -21,6 +23,7 @@ A personal [Docker](https://docker.io)-container for your metadata.
 - littlebrother should handle offline/peer-to-peer-network aggregation of data
 
 ### Sites/systems related to the same problem:
+- [mfrellum/Gini](https://github.com/mfrellum/Gini)
 - [DATA-POP ALLIANCE](http://www.datapopalliance.org/)
 - [openPDS](http://openpds.media.mit.edu/) \([github.com/HumanDynamics/openPDS](https://github.com/HumanDynamics/openPDS)\)[\[video\]](http://youtu.be/JOgwMzF9Zqo)[\[TEDx\]](http://youtu.be/QKQ1IXBkHfw)
 - [behivio](http://behav.io)
