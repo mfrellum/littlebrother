@@ -11,7 +11,7 @@ People like [Tim Berners Lee calls for new model for privacy on the web](http://
 A personal [Docker](https://docker.io)-container for your metadata.
 
 ### Feature goals (This project is just started. Most features are not implemented yet)
-- It should be easy to move your metadata
+- It should be easy to move your metadata (standardized hosting)
 - It will facilitate standardized data collection (support standards as IMS Caliper)
 - personal data analysis
 - sharing control
@@ -21,6 +21,13 @@ A personal [Docker](https://docker.io)-container for your metadata.
 - encryption and archiving of metadata. (Internet proxy if allowed by host).
 - aggregate several personal littlebrother containers (e.g. One for education, one for medical and one for leisure)
 - littlebrother should handle offline/peer-to-peer-network aggregation of data
+
+### Stimulate hosting competition
+Standardized hosting should make it easy to move your data and stimulate competition from hosting services.
+Competition on:
+- Trust
+- Service
+- Prize
 
 ### Sites/systems related to the same problem:
 - [mfrellum/Gini](https://github.com/mfrellum/Gini)
