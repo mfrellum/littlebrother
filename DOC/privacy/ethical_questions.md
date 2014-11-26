@@ -24,12 +24,11 @@ Goverment restrictions: Russia, China, medical data
 
 ###You have the right to be forgotten, but do you have the right to share your privat data?
 How can employer and nasjonal security agencyes restrict your sharing of privat data? You have different privacy contexts e.g.: work, citizent, privat, in a group. 
-See [Lane2014, page 200][2] 
+See [Lane2014][2] page 200. 
 
 ###What about Group metadata?
 If your metadata contain references to other people can they demand to be disassociated? How do you solve that? A sentral register of per instant groups? that you can disassociate from?
 
 [1]: http://dx.doi.org/10.1371/journal.pone.0098790 "Y.-A. de Montjoye, E. Shmueli, S. S. Wang, and A. S. Pentland, “openPDS: Protecting the Privacy of Metadata through SafeAnswers,” PLoS ONE, vol. 9, no. 7, p. e98790, Jul. 2014."
-[2]: http://www.dataprivacybook.org/ "Privacy, Big Data, and the Public Good: Frameworks for Engagement,
-Julia Lane, Victoria Stodden, Stefan Bender, and Helen Nissenbaum (editors), 
-Cambridge University Press, 2014. "
+
+[2]: http://www.dataprivacybook.org/ "Privacy, Big Data, and the Public Good: Frameworks for Engagement, Julia Lane, Victoria Stodden, Stefan Bender, and Helen Nissenbaum (editors), Cambridge University Press, 2014. "
