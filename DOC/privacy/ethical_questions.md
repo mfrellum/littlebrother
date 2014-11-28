@@ -7,11 +7,13 @@ See [Montjoye2014][1] for a good general discussion.
 ###What underlying legal fundament dictates the implementation and use of a system like littlebrother?
 See [Lane2014][2] particulary chapter 8 for a good general discussion.
 
-### Can ease of collection stimulate more collection?
+### Can ease of collection stimulate more collection? Is that a good thing?
 If so? What are the consequenses?
 
 ### Does the users necessarily know the consequences of sharing?
 If not? What are the consequenses?
+Can managing your own privacy be a burden like managing your security through passwords?
+What is the right level of self management?
 
 ### Can users be bullied into surrendering their data?
 If so? What can be done?
